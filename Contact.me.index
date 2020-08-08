@@ -1,0 +1,18 @@
+</html><!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Contact</title>
+  </head>
+  <body>
+  	<h1>My Contact Details</h1>
+  	<p>My Fictioanl Address</p>
+  	<p>(702) 417-0656</p>
+  	<p>Aaronfrazier14@gmail.com</p>
+  	<form Class="" action="Index.html" method="post">
+  		<label>Aj Frazier</label>
+  		<input type="text" name="" value="">
+      <input type="color" name="" value="">
+      <input type="Submit" name="">
+  	</form>
+  </body>
